@@ -84,18 +84,18 @@ Spotify_Tracks_Playlists_EDA/
 This dataset combines Spotify track metadata, playlist categorization, and audio features to analyze how music is curated, promoted, and positioned across playlists.
 
 **Acknowledgements:**  
-- Audio features and metadata derived from Spotify’s public APIs and community datasets.  
-- Thanks to open-source contributors for making music analytics datasets accessible.
+- Thanks to Kaggle for making the Spotify datasets accessible.
 
 **Inspiration:**  
 Understanding how audio characteristics, genre placement, and recency influence playlist exposure and popularity can guide artists, curators, and music analysts in data-driven decision-making.
+
 ---
 
 ## 🚀 Quick Start
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/TejasMJ/Google-Play-Store-App-EDA-.git
+git clone [https://github.com/TejasMJ/Google-Play-Store-App-EDA-.git](https://github.com/TejasMJ/Spotify_EDA.git)
 cd Google-Play-Store-App-EDA-
 ```
 
