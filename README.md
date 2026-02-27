@@ -67,7 +67,7 @@ Spotify_Tracks_Playlists_EDA/
   - **Data Manipulation:** Pandas, NumPy
   - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Environment:** Jupyter Notebook
-- **Data Source:** Publicly available Spotify track metadata & audio features
+- **Data Source:** [Kaggle – Spotify Dataset](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs)
 
 ---
 
